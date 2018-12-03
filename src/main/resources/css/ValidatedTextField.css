@@ -1,0 +1,3 @@
+.validation-field:invalid {
+    -fx-text-fill: #FF6666;
+}

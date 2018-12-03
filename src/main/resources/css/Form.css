@@ -1,0 +1,12 @@
+.center-text {
+    -fx-alignment: center;
+    -fx-text-alignment: center;
+}
+
+.sheet {
+    -fx-background-color: white;
+}
+
+.sheet-border {
+    -fx-border-color: -fx-text-box-border;
+}
